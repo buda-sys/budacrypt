@@ -89,7 +89,7 @@ chmod +x budacrypt.sh
  
  ## Resultado
  
- ![b](./img/nombre_de_la_imagen.png)
+ ![b](./img/crypt)
 
  
 ---
