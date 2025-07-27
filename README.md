@@ -89,7 +89,7 @@ chmod +x budacrypt.sh
  
  ## Resultado
  
- ![b](https://hackmd.io/_uploads/HyS8O77Dle.png)
+ ![b](./img/nombre_de_la_imagen.png)
 
  
 ---
