@@ -1,5 +1,5 @@
 [![GitHub release](https://img.shields.io/github/release/buda-sys/budacrypt.svg?style=flat-square)](https://github.com/buda-sys/budacrypt/releases)
-[![License](https://img.shields.io/github/license/buda-sys/budacrypt.svg?style=flat-square)](https://github.com/tuusuario/budacrypt/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/buda-sys/budacrypt.svg?style=flat-square)](https://github.com/buda-sys/budacrypt/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/python-3.6%2B-blue.svg?style=flat-square)](https://www.python.org/)
 [![Last Commit](https://img.shields.io/github/last-commit/buda-sys/budacrypt.svg?style=flat-square)](https://github.com/buda-sys/budacrypt/commits/main)
 
